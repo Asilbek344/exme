@@ -800,3 +800,14 @@ header {
     text-align: center;
     padding-bottom: 20px;
 }
+#a{
+    margin-top: 170px;
+}.j{
+    text-align: center;
+    
+}
+.j img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
