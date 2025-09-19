@@ -811,3 +811,13 @@ header {
     align-items: center;
     justify-content: center;
 }
+.ml{
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+.l{
+font-size: 66px;
+text-align: center;
+}
